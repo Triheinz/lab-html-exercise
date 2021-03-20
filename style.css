@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+body {
+    font-family: 'Poppins';
+  }
+header > div {
+  padding: 0 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid lightgray;
+}
+
+nav {
+  width: 600px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+.blackHeart {
+  width: 20px;
+  margin-right: 1rem;
+}
+
+.npm-logo {
+    width: 100px;
+    margin-right: 1rem;
+}
+
+.magnifying-glass {
+    width: 20px;
+    margin-right: 1rem;
+    background-color: whitesmoke;
+}
+.lupa {
+    background-color: whitesmoke;
+    width: none;
+    display: flex;
+}
+.glass {
+    background-color: whitesmoke;
+    width:60%;
+    border: whitesmoke;
+    display:flex;
+}
+.nav-bar {
+    background-color: none;
+    display:flex;
+}
+.section2 {
+    height: 600px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+    background-color: rgba(232,217,217,.3);
+
+}
+.build p{
+    font-size: 75px;
+}
+div p{
+    font-weight: 700;
+}
+.searchnav {
+    background-color: red;
+    color: white;
+    display: flex;
+}
+.section2B{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-basis: auto;
+}
+.seep {
+
+    box-shadow: 8px 8px 0 rgba(251,59,73,.2) ;
+    background-color: #FB3B49;
+    margin: 0%;
+
+}
+.textsec2{
+    align-self: center;
+    justify-content: center;
+    mar
+}
+p {
+    color: black
+  }
+h1 {
+    width: 600px;
+    display:center; 
+}
+.look {
+    width: 40px;
+    margin-right: 1rem;
+}
+.webpage {
+    width: 40px;
+    margin-right: 1rem;
+}
+.group {
+    width: 40px;
+    margin-right: 1rem;
+}
+.binoculares {
+    width: 40px;
+    margin-right: 1rem;
+}
+h3 {
+    color:#ED1C24
+}
+.bring {
+    background-color:rgba(255,204,53,.4);
+    transform: skew(9deg,0deg);
+    font-style: italic;
+    display: block;
+    margin: 0%;
+    text-align: center;
+    align-items: center;
+    border-width: 10px;
+}
+.pink-pic {
+    width: 200px;
+    align-content: center;
+    padding: 20px;
+    align-items: center;
+}
+.lowbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.box2  {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.create-an-org {
+    background-color: black;
+    color: white;
+    box-shadow: 8px 8px 0 rgba(128,83,35,.2);
+    padding: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    align-self: center;
+    align-items: center;
+}
